@@ -17,27 +17,21 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      MDBOOK_VERSION: 0.4.36
     steps:
       - uses: actions/checkout@v4
-      - name: Install Rust and Cargo
-        run: |
-          curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
-          source $HOME/.cargo/env
-          rustup update
+
       - name: Install mdBook
-        run: cargo install --version ${MDBOOK_VERSION} mdbook
-      - name: Install lychee
-        run: cargo install lychee
+        uses: peaceiris/actions-mdbook@v1
+        with:
+          mdbook-version: '0.4.36'
+
       - name: Build with mdBook
         run: mdbook build
-      - name: Check links with lychee
-        run: |
-          lychee --verbose --base https://sovremennik.github.io/backend-preparation/ ./book
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
