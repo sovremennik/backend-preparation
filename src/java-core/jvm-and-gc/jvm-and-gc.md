@@ -1,0 +1,5 @@
+#### [Устройство памяти](memory/memory.md)
+#### [Garbage Collection (GC)](gc/gc.md)
+#### [JIT-компиляция](jit/jit.md)
+#### [GraalVM](graalvm/graalvm.md)
+#### [Project Loom](project-loom/project-loom.md)
