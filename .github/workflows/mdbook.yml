@@ -34,7 +34,7 @@ jobs:
         run: mdbook build
       - name: Check links with lychee
         run: |
-          lychee --verbose --base-url https://sovremennik.github.io/backend-preparation/ ./book
+          lychee --verbose --base https://sovremennik.github.io/backend-preparation/ ./book
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
