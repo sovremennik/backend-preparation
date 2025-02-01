@@ -176,3 +176,91 @@
   - Portainer — GUI для управления контейнерами.  
   - Docker Desktop — управление через графический интерфейс.  
 
+---
+
+📁 docker/
+├── 📄 docker.md
+├── 📁 1-basics/
+│   ├── 📄 1-basics.md
+│   ├── 📁 core-concepts/
+│   │   └── 📄 core-concepts.md
+│   └── 📁 advantages/
+│       └── 📄 advantages.md
+├── 📁 2-installation/
+│   ├── 📄 2-installation.md
+│   ├── 📁 setup/
+│   │   └── 📄 setup.md
+│   └── 📁 configuration/
+│       └── 📄 configuration.md
+├── 📁 3-images/
+│   ├── 📄 3-images.md
+│   ├── 📁 working-with-images/
+│   │   └── 📄 working-with-images.md
+│   └── 📁 creating-images/
+│       └── 📄 creating-images.md
+├── 📁 4-containers/
+│   ├── 📄 4-containers.md
+│   ├── 📁 container-commands/
+│   │   └── 📄 container-commands.md
+│   └── 📁 container-options/
+│       └── 📄 container-options.md
+├── 📁 5-dockerfile/
+│   ├── 📄 5-dockerfile.md
+│   ├── 📁 dockerfile-instructions/
+│   │   └── 📄 dockerfile-instructions.md
+│   └── 📁 building-images/
+│       └── 📄 building-images.md
+├── 📁 6-networking/
+│   ├── 📄 6-networking.md
+│   ├── 📁 network-types/
+│   │   └── 📄 network-types.md
+│   └── 📁 working-with-networks/
+│       └── 📄 working-with-networks.md
+├── 📁 7-volumes/
+│   ├── 📄 7-volumes.md
+│   ├── 📁 volume-basics/
+│   │   └── 📄 volume-basics.md
+│   └── 📁 working-with-volumes/
+│       └── 📄 working-with-volumes.md
+├── 📁 8-docker-compose/
+│   ├── 📄 8-docker-compose.md
+│   ├── 📁 compose-basics/
+│   │   └── 📄 compose-basics.md
+│   └── 📁 compose-commands/
+│       └── 📄 compose-commands.md
+├── 📁 9-best-practices/
+│   ├── 📄 9-best-practices.md
+│   ├── 📁 optimizing-dockerfile/
+│   │   └── 📄 optimizing-dockerfile.md
+│   └── 📁 secrets-management/
+│       └── 📄 secrets-management.md
+├── 📁 10-ci-cd/
+│   ├── 📄 10-ci-cd.md
+│   ├── 📁 ci-cd-basics/
+│   │   └── 📄 ci-cd-basics.md
+│   └── 📁 integration-with-tools/
+│       └── 📄 integration-with-tools.md
+├── 📁 11-security/
+│   ├── 📄 11-security.md
+│   ├── 📁 vulnerability-management/
+│   │   └── 📄 vulnerability-management.md
+│   └── 📁 resource-limits/
+│       └── 📄 resource-limits.md
+├── 📁 12-troubleshooting/
+│   ├── 📄 12-troubleshooting.md
+│   ├── 📁 logging/
+│   │   └── 📄 logging.md
+│   └── 📁 debugging/
+│       └── 📄 debugging.md
+├── 📁 13-kubernetes/
+│   ├── 📄 13-kubernetes.md
+│   ├── 📁 docker-and-kubernetes/
+│   │   └── 📄 docker-and-kubernetes.md
+│   └── 📁 deployment-examples/
+│       └── 📄 deployment-examples.md
+└── 📁 14-tools-and-commands/
+  ├── 📄 14-tools-and-commands.md
+  ├── 📁 useful-commands/
+  │   └── 📄 useful-commands.md
+  └── 📁 docker-tools/
+        └── 📄 docker-tools.md

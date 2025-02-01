@@ -162,3 +162,97 @@
   - `git blame` — определение автора изменений.  
   - `git bisect` — поиск коммита, вызвавшего баг.  
   - `git cherry-pick` — выборочный перенос коммитов.  
+
+---
+📁 git/
+├── 📄 git.md
+├── 📁 1-introduction/
+│   ├── 📄 1-introduction.md
+│   ├── 📁 what-is-git/
+│   │   └── 📄 what-is-git.md
+│   └── 📁 basic-concepts/
+│       └── 📄 basic-concepts.md
+├── 📁 2-basic-commands/
+│   ├── 📄 2-basic-commands.md
+│   ├── 📁 initialization/
+│   │   └── 📄 initialization.md
+│   └── 📁 working-with-changes/
+│       └── 📄 working-with-changes.md
+├── 📁 3-branching-and-merging/
+│   ├── 📄 3-branching-and-merging.md
+│   ├── 📁 working-with-branches/
+│   │   └── 📄 working-with-branches.md
+│   └── 📁 merging/
+│       └── 📄 merging.md
+├── 📁 4-remote-repositories/
+│   ├── 📄 4-remote-repositories.md
+│   ├── 📁 connecting-repositories/
+│   │   └── 📄 connecting-repositories.md
+│   └── 📁 remote-commands/
+│       └── 📄 remote-commands.md
+├── 📁 5-code-review/
+│   ├── 📄 5-code-review.md
+│   ├── 📁 pull-requests/
+│   │   └── 📄 pull-requests.md
+│   └── 📁 working-with-forks/
+│       └── 📄 working-with-forks.md
+├── 📁 6-rebase-and-squash/
+│   ├── 📄 6-rebase-and-squash.md
+│   ├── 📁 rebase/
+│   │   └── 📄 rebase.md
+│   └── 📁 squash/
+│       └── 📄 squash.md
+├── 📁 7-stash/
+│   ├── 📄 7-stash.md
+│   ├── 📁 saving-changes/
+│   │   └── 📄 saving-changes.md
+│   └── 📁 useful-scenarios/
+│       └── 📄 useful-scenarios.md
+├── 📁 8-viewing-changes/
+│   ├── 📄 8-viewing-changes.md
+│   ├── 📁 git-diff/
+│   │   └── 📄 git-diff.md
+│   └── 📁 comparing-branches/
+│       └── 📄 comparing-branches.md
+├── 📁 9-git-hooks/
+│   ├── 📄 9-git-hooks.md
+│   ├── 📁 introduction/
+│   │   └── 📄 introduction.md
+│   └── 📁 examples/
+│       └── 📄 examples.md
+├── 📁 10-tags/
+│   ├── 📄 10-tags.md
+│   ├── 📁 creating-tags/
+│   │   └── 📄 creating-tags.md
+│   └── 📁 pushing-tags/
+│       └── 📄 pushing-tags.md
+├── 📁 11-conflict-resolution/
+│   ├── 📄 11-conflict-resolution.md
+│   ├── 📁 understanding-conflicts/
+│   │   └── 📄 understanding-conflicts.md
+│   └── 📁 resolving-conflicts/
+│       └── 📄 resolving-conflicts.md
+├── 📁 12-debugging-and-recovery/
+│   ├── 📄 12-debugging-and-recovery.md
+│   ├── 📁 undoing-changes/
+│   │   └── 📄 undoing-changes.md
+│   └── 📁 file-recovery/
+│       └── 📄 file-recovery.md
+├── 📁 13-branching-strategies/
+│   ├── 📄 13-branching-strategies.md
+│   ├── 📁 git-flow/
+│   │   └── 📄 git-flow.md
+│   └── 📁 alternative-approaches/
+│       └── 📄 alternative-approaches.md
+├── 📁 14-ci-cd-and-git/
+│   ├── 📄 14-ci-cd-and-git.md
+│   ├── 📁 ci-cd-integration/
+│   │   └── 📄 ci-cd-integration.md
+│   └── 📁 best-practices/
+│       └── 📄 best-practices.md
+└── 📁 15-useful-tools/
+  ├── 📄 15-useful-tools.md
+  ├── 📁 git-gui/
+  │   └── 📄 git-gui.md
+  └── 📁 git-extensions/
+  └── 📄 git-extensions.md

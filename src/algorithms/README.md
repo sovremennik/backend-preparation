@@ -110,3 +110,109 @@
 - Книги  
 - Онлайн-курсы  
 - Платформы для практики  
+
+---
+📁 algorithms/
+├── 📄 algorithms.md
+├── 📁 1-introduction/
+│   ├── 📄 1-introduction.md
+│   ├── 📁 definition-and-classification/
+│   │   └── 📄 definition-and-classification.md
+│   └── 📁 complexity-analysis/
+│       └── 📄 complexity-analysis.md
+├── 📁 2-sorting-algorithms/
+│   ├── 📄 2-sorting-algorithms.md
+│   ├── 📁 basic-sorts/
+│   │   └── 📄 basic-sorts.md
+│   └── 📁 efficient-sorts/
+│       └── 📄 efficient-sorts.md
+├── 📁 3-searching-algorithms/
+│   ├── 📄 3-searching-algorithms.md
+│   ├── 📁 linear-search/
+│   │   └── 📄 linear-search.md
+│   └── 📁 binary-search/
+│       └── 📄 binary-search.md
+├── 📁 4-greedy-algorithms/
+│   ├── 📄 4-greedy-algorithms.md
+│   ├── 📁 knapsack-problem/
+│   │   └── 📄 knapsack-problem.md
+│   └── 📁 coin-change/
+│       └── 📄 coin-change.md
+├── 📁 5-dynamic-programming/
+│   ├── 📄 5-dynamic-programming.md
+│   ├── 📁 0-1-knapsack/
+│   │   └── 📄 0-1-knapsack.md
+│   └── 📁 longest-common-subsequence/
+│       └── 📄 longest-common-subsequence.md
+├── 📁 6-graph-algorithms/
+│   ├── 📄 6-graph-algorithms.md
+│   ├── 📁 dfs-and-bfs/
+│   │   └── 📄 dfs-and-bfs.md
+│   └── 📁 shortest-path/
+│       └── 📄 shortest-path.md
+├── 📁 7-divide-and-conquer/
+│   ├── 📄 7-divide-and-conquer.md
+│   ├── 📁 quick-sort/
+│   │   └── 📄 quick-sort.md
+│   └── 📁 merge-sort/
+│       └── 📄 merge-sort.md
+├── 📁 8-two-pointers-and-sliding-window/
+│   ├── 📄 8-two-pointers-and-sliding-window.md
+│   ├── 📁 substring-search/
+│   │   └── 📄 substring-search.md
+│   └── 📁 maximum-subarray/
+│       └── 📄 maximum-subarray.md
+├── 📁 9-string-algorithms/
+│   ├── 📄 9-string-algorithms.md
+│   ├── 📁 kmp-algorithm/
+│   │   └── 📄 kmp-algorithm.md
+│   └── 📁 rabin-karp/
+│       └── 📄 rabin-karp.md
+├── 📁 10-tree-algorithms/
+│   ├── 📄 10-tree-algorithms.md
+│   ├── 📁 tree-traversal/
+│   │   └── 📄 tree-traversal.md
+│   └── 📁 segment-tree/
+│       └── 📄 segment-tree.md
+├── 📁 11-recursion-and-iteration/
+│   ├── 📄 11-recursion-and-iteration.md
+│   ├── 📁 recursion-principles/
+│   │   └── 📄 recursion-principles.md
+│   └── 📁 memoization/
+│       └── 📄 memoization.md
+├── 📁 12-set-and-map-algorithms/
+│   ├── 📄 12-set-and-map-algorithms.md
+│   ├── 📁 hashing/
+│   │   └── 📄 hashing.md
+│   └── 📁 sweep-line/
+│       └── 📄 sweep-line.md
+├── 📁 13-probabilistic-algorithms/
+│   ├── 📄 13-probabilistic-algorithms.md
+│   ├── 📁 monte-carlo/
+│   │   └── 📄 monte-carlo.md
+│   └── 📁 las-vegas/
+│       └── 📄 las-vegas.md
+├── 📁 14-concurrency-algorithms/
+│   ├── 📄 14-concurrency-algorithms.md
+│   ├── 📁 thread-safe-algorithms/
+│   │   └── 📄 thread-safe-algorithms.md
+│   └── 📁 lock-free-structures/
+│       └── 📄 lock-free-structures.md
+├── 📁 15-algorithm-selection/
+│   ├── 📄 15-algorithm-selection.md
+│   ├── 📁 time-memory-tradeoff/
+│   │   └── 📄 time-memory-tradeoff.md
+│   └── 📁 practical-considerations/
+│       └── 📄 practical-considerations.md
+├── 📁 16-practice-problems/
+│   ├── 📄 16-practice-problems.md
+│   ├── 📁 interview-questions/
+│   │   └── 📄 interview-questions.md
+│   └── 📁 optimization/
+│       └── 📄 optimization.md
+└── 📁 17-resources/
+    ├── 📄 17-resources.md
+    ├── 📁 books/
+    │   └── 📄 books.md
+    └── 📁 online-courses/
+        └── 📄 online-courses.md

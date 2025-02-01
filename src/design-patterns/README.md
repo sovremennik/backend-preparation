@@ -141,3 +141,105 @@
   - Udemy, Coursera, Pluralsight  
 - **Платформы для практики:**  
   - LeetCode, HackerRank, Refactoring.Guru  
+
+---
+📁 design-patterns/
+├── 📄 design-patterns.md
+├── 📁 1-introduction/
+│   ├── 📄 1-introduction.md
+│   ├── 📁 what-are-design-patterns/
+│   │   └── 📄 what-are-design-patterns.md
+│   ├── 📁 principles/
+│   │   └── 📄 principles.md
+│   ├── 📁 history-and-classification/
+│   │   └── 📄 history-and-classification.md
+│   └── 📁 when-to-use-patterns/
+│       └── 📄 when-to-use-patterns.md
+├── 📁 2-creational-patterns/
+│   ├── 📄 2-creational-patterns.md
+│   ├── 📁 singleton/
+│   │   └── 📄 singleton.md
+│   ├── 📁 factory-method/
+│   │   └── 📄 factory-method.md
+│   ├── 📁 abstract-factory/
+│   │   └── 📄 abstract-factory.md
+│   ├── 📁 builder/
+│   │   └── 📄 builder.md
+│   └── 📁 prototype/
+│       └── 📄 prototype.md
+├── 📁 3-structural-patterns/
+│   ├── 📄 3-structural-patterns.md
+│   ├── 📁 adapter/
+│   │   └── 📄 adapter.md
+│   ├── 📁 bridge/
+│   │   └── 📄 bridge.md
+│   ├── 📁 composite/
+│   │   └── 📄 composite.md
+│   ├── 📁 decorator/
+│   │   └── 📄 decorator.md
+│   ├── 📁 facade/
+│   │   └── 📄 facade.md
+│   ├── 📁 flyweight/
+│   │   └── 📄 flyweight.md
+│   └── 📁 proxy/
+│       └── 📄 proxy.md
+├── 📁 4-behavioral-patterns/
+│   ├── 📄 4-behavioral-patterns.md
+│   ├── 📁 chain-of-responsibility/
+│   │   └── 📄 chain-of-responsibility.md
+│   ├── 📁 command/
+│   │   └── 📄 command.md
+│   ├── 📁 interpreter/
+│   │   └── 📄 interpreter.md
+│   ├── 📁 iterator/
+│   │   └── 📄 iterator.md
+│   ├── 📁 mediator/
+│   │   └── 📄 mediator.md
+│   ├── 📁 memento/
+│   │   └── 📄 memento.md
+│   ├── 📁 observer/
+│   │   └── 📄 observer.md
+│   ├── 📁 state/
+│   │   └── 📄 state.md
+│   ├── 📁 strategy/
+│   │   └── 📄 strategy.md
+│   ├── 📁 template-method/
+│   │   └── 📄 template-method.md
+│   └── 📁 visitor/
+│       └── 📄 visitor.md
+├── 📁 5-solid-principles/
+│   ├── 📄 5-solid-principles.md
+│   ├── 📁 single-responsibility/
+│   │   └── 📄 single-responsibility.md
+│   ├── 📁 open-closed/
+│   │   └── 📄 open-closed.md
+│   ├── 📁 liskov-substitution/
+│   │   └── 📄 liskov-substitution.md
+│   ├── 📁 interface-segregation/
+│   │   └── 📄 interface-segregation.md
+│   └── 📁 dependency-inversion/
+│       └── 📄 dependency-inversion.md
+├── 📁 6-anti-patterns/
+│   ├── 📄 6-anti-patterns.md
+│   ├── 📁 spaghetti-code/
+│   │   └── 📄 spaghetti-code.md
+│   ├── 📁 golden-hammer/
+│   │   └── 📄 golden-hammer.md
+│   └── 📁 lazy-loading/
+│       └── 📄 lazy-loading.md
+├── 📁 7-practical-usage/
+│   ├── 📄 7-practical-usage.md
+│   ├── 📁 spring-framework/
+│   │   └── 📄 spring-framework.md
+│   ├── 📁 hibernate/
+│   │   └── 📄 hibernate.md
+│   └── 📁 java-kotlin-examples/
+│       └── 📄 java-kotlin-examples.md
+└── 📁 8-resources/
+    ├── 📄 8-resources.md
+    ├── 📁 books/
+    │   └── 📄 books.md
+    ├── 📁 online-courses/
+    │   └── 📄 online-courses.md
+    └── 📁 practice-platforms/
+        └── 📄 practice-platforms.md

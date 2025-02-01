@@ -77,3 +77,54 @@
 - Книги  
 - Онлайн-курсы  
 - Платформы для практики  
+
+---
+
+📁 data-structures/
+├── 📄 data-structures.md
+├── 📁 1-introduction/
+│   ├── 📄 1-introduction.md
+│   └── 📁 core-concepts/
+│       └── 📄 core-concepts.md
+├── 📁 2-basic-structures/
+│   ├── 📄 2-basic-structures.md
+│   ├── 📁 arrays/
+│   │   └── 📄 arrays.md
+│   ├── 📁 linked-lists/
+│   │   └── 📄 linked-lists.md
+│   ├── 📁 stack/
+│   │   └── 📄 stack.md
+│   └── 📁 queue/
+│       └── 📄 queue.md
+├── 📁 3-hash-structures/
+│   ├── 📄 3-hash-structures.md
+│   ├── 📁 hash-table/
+│   │   └── 📄 hash-table.md
+│   └── 📁 bloom-filter/
+│       └── 📄 bloom-filter.md
+├── 📁 4-trees/
+│   ├── 📄 4-trees.md
+│   ├── 📁 binary-tree/
+│   │   └── 📄 binary-tree.md
+│   ├── 📁 avl-tree/
+│   │   └── 📄 avl-tree.md
+│   └── 📁 heap/
+│       └── 📄 heap.md
+├── 📁 5-graphs/
+│   ├── 📄 5-graphs.md
+│   ├── 📁 representation/
+│   │   └── 📄 representation.md
+│   └── 📁 algorithms/
+│       └── 📄 algorithms.md
+├── 📁 6-advanced/
+│   ├── 📄 6-advanced.md
+│   ├── 📁 segment-tree/
+│   │   └── 📄 segment-tree.md
+│   └── 📁 trie/
+│       └── 📄 trie.md
+└── 📁 7-practice/
+    ├── 📄 7-practice.md
+    ├── 📁 leetcode/
+    │   └── 📄 leetcode.md
+    └── 📁 real-world/
+        └── 📄 real-world.md
