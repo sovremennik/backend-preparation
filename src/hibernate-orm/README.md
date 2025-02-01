@@ -145,3 +145,79 @@
   - Аннотация `@EnableJpaRepositories`.  
 - **Использование транзакций:**  
   - `@Transactional` в контексте Spring.  
+
+---
+📁 hibernate-orm/
+├── 📄 hibernate-orm.md
+├── 📁 basics/
+│   ├── 📄 basics.md
+│   ├── 📁 overview/
+│   │   └── 📄 overview.md
+│   └── 📁 setup/
+│       └── 📄 setup.md
+├── 📁 concepts/
+│   ├── 📄 concepts.md
+│   ├── 📁 session/
+│   │   └── 📄 session.md
+│   ├── 📁 session-factory/
+│   │   └── 📄 session-factory.md
+│   └── 📁 transactions/
+│       └── 📄 transactions.md
+├── 📁 mapping/
+│   ├── 📄 mapping.md
+│   ├── 📁 annotations/
+│   │   └── 📄 annotations.md
+│   ├── 📁 relationships/
+│   │   └── 📄 relationships.md
+│   ├── 📁 fetch-strategies/
+│   │   └── 📄 fetch-strategies.md
+│   └── 📁 cascade/
+│       └── 📄 cascade.md
+├── 📁 query-language/
+│   ├── 📄 query-language.md
+│   ├── 📁 jpql/
+│   │   └── 📄 jpql.md
+│   ├── 📁 named-queries/
+│   │   └── 📄 named-queries.md
+│   └── 📁 native-sql/
+│       └── 📄 native-sql.md
+├── 📁 criteria-api/
+│   ├── 📄 criteria-api.md
+│   └── 📁 usage/
+│       └── 📄 usage.md
+├── 📁 caching/
+│   ├── 📄 caching.md
+│   ├── 📁 levels/
+│   │   └── 📄 levels.md
+│   └── 📁 providers/
+│       └── 📄 providers.md
+├── 📁 exceptions/
+│   ├── 📄 exceptions.md
+│   └── 📁 handling/
+│       └── 📄 handling.md
+├── 📁 migrations/
+│   ├── 📄 migrations.md
+│   ├── 📁 schema/
+│   │   └── 📄 schema.md
+│   └── 📁 tools/
+│       └── 📄 tools.md
+├── 📁 performance/
+│   ├── 📄 performance.md
+│   ├── 📁 batch/
+│   │   └── 📄 batch.md
+│   ├── 📁 n-plus-one/
+│   │   └── 📄 n-plus-one.md
+│   └── 📁 monitoring/
+│       └── 📄 monitoring.md
+├── 📁 advanced/
+│   ├── 📄 advanced.md
+│   ├── 📁 custom-types/
+│   │   └── 📄 custom-types.md
+│   └── 📁 auditing/
+│       └── 📄 auditing.md
+└── 📁 spring-integration/
+    ├── 📄 spring-integration.md
+    ├── 📁 data-jpa/
+    │   └── 📄 data-jpa.md
+    └── 📁 configuration/
+        └── 📄 configuration.md
