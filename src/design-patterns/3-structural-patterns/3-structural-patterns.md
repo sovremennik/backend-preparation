@@ -1,0 +1,7 @@
+#### [Adapter](adapter/adapter.md)
+#### [Bridge](bridge/bridge.md)
+#### [Composite](composite/composite.md)
+#### [Decorator](decorator/decorator.md)
+#### [Facade](facade/facade.md)
+#### [Flyweight](flyweight/flyweight.md)
+#### [Proxy](proxy/proxy.md)

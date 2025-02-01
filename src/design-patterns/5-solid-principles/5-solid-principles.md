@@ -1,0 +1,5 @@
+#### [Single Responsibility](single-responsibility/single-responsibility.md)
+#### [Open/Closed Principle](open-closed/open-closed.md)
+#### [Liskov Substitution](liskov-substitution/liskov-substitution.md)
+#### [Interface Segregation](interface-segregation/interface-segregation.md)
+#### [Dependency Inversion](dependency-inversion/dependency-inversion.md)

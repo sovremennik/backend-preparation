@@ -127,3 +127,49 @@
   - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)  
 - **SOAP:**  
   - *Understanding Web Services* — Eric Newcomer  
+
+---
+📁 api-and-networking/
+├── 📄 api-and-networking.md
+├── 📁 1-rest/
+│   ├── 📄 1-rest.md
+│   ├── 📁 basics/
+│   │   └── 📄 basics.md
+│   └── 📁 http-methods/
+│       └── 📄 http-methods.md
+├── 📁 2-grpc/
+│   ├── 📄 2-grpc.md
+│   ├── 📁 characteristics/
+│   │   └── 📄 characteristics.md
+│   └── 📁 pros-and-cons/
+│       └── 📄 pros-and-cons.md
+├── 📁 3-comparison/
+│   ├── 📄 3-comparison.md
+│   ├── 📁 rest-vs-grpc/
+│   │   └── 📄 rest-vs-grpc.md
+│   └── 📁 use-cases/
+│       └── 📄 use-cases.md
+├── 📁 4-websocket/
+│   ├── 📄 4-websocket.md
+│   ├── 📁 features/
+│   │   └── 📄 features.md
+│   └── 📁 examples/
+│       └── 📄 examples.md
+├── 📁 5-graphql/
+│   ├── 📄 5-graphql.md
+│   ├── 📁 basics/
+│   │   └── 📄 basics.md
+│   └── 📁 pros-and-cons/
+│       └── 📄 pros-and-cons.md
+├── 📁 6-soap/
+│   ├── 📄 6-soap.md
+│   ├── 📁 features/
+│   │   └── 📄 features.md
+│   └── 📁 when-to-use/
+│       └── 📄 when-to-use.md
+└── 📁 7-resources/
+  ├── 📄 7-resources.md
+  ├── 📁 books/
+  │   └── 📄 books.md
+  └── 📁 links/
+      └── 📄 links.md

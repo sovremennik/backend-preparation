@@ -138,3 +138,67 @@
 - Методологии и подходы — основа качественной разработки.  
 - Постоянное развитие и изучение новых практик необходимы для успешной карьеры в Backend-разработке.  
 - Интеграция знаний о методологиях, принципах и инструментах ускорит профессиональный рост.  
+
+---
+📁 best-practices/
+├── 📄 best-practices.md
+├── 📁 1-introduction/
+│   ├── 📄 1-introduction.md
+│   ├── 📁 definition/
+│   │   └── 📄 definition.md
+│   └── 📁 goals/
+│       └── 📄 goals.md
+├── 📁 2-key-principles/
+│   ├── 📄 2-key-principles.md
+│   ├── 📁 dry-kiss-yagni/
+│   │   └── 📄 dry-kiss-yagni.md
+│   └── 📁 solid/
+│       └── 📄 solid.md
+├── 📁 3-evolution/
+│   ├── 📄 3-evolution.md
+│   ├── 📁 historical-context/
+│   │   └── 📄 historical-context.md
+│   └── 📁 future-trends/
+│       └── 📄 future-trends.md
+├── 📁 4-methodologies/
+│   ├── 📄 4-methodologies.md
+│   ├── 📁 imperative/
+│   │   └── 📄 imperative.md
+│   └── 📁 oop/
+│       └── 📄 oop.md
+├── 📁 5-solid-principles/
+│   ├── 📄 5-solid-principles.md
+│   ├── 📁 single-responsibility/
+│   │   └── 📄 single-responsibility.md
+│   └── 📁 open-closed/
+│       └── 📄 open-closed.md
+├── 📁 6-development-methodologies/
+│   ├── 📄 6-development-methodologies.md
+│   ├── 📁 tdd/
+│   │   └── 📄 tdd.md
+│   └── 📁 bdd/
+│       └── 📄 bdd.md
+├── 📁 7-architectural-approaches/
+│   ├── 📄 7-architectural-approaches.md
+│   ├── 📁 microservices/
+│   │   └── 📄 microservices.md
+│   └── 📁 monolithic/
+│       └── 📄 monolithic.md
+├── 📁 8-code-quality/
+│   ├── 📄 8-code-quality.md
+│   ├── 📁 refactoring/
+│   │   └── 📄 refactoring.md
+│   └── 📁 code-reviews/
+│       └── 📄 code-reviews.md
+├── 📁 9-tools/
+│   ├── 📄 9-tools.md
+│   ├── 📁 testing/
+│   │   └── 📄 testing.md
+│   └── 📁 ci-cd/
+│       └── 📄 ci-cd.md
+└── 📁 10-conclusion/
+    ├── 📄 10-conclusion.md
+    ├── 📁 summary/
+    │   └── 📄 summary.md
+    └── 📁 best-practices/
+        └── 📄 best-practices.md
