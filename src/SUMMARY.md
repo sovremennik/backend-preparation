@@ -102,7 +102,7 @@
         - [Основные преимущества изучения и применения языка](kotlin-core/conclusion/advantages/advantages.md)
         - [Переход с Java на Kotlin: шаги миграции](kotlin-core/conclusion/migration/migration.md)
 
-- [🌱 Spring Framework](spring-framework/spring-framework.md)
+- [🌱Spring Framework](spring-framework/spring.md)
     - [Spring Core](spring-framework/core/core.md)
         - [Введение в Spring](spring-framework/core/introduction/introduction.md)
         - [Инверсия управления (IoC)](spring-framework/core/ioc/ioc.md)
